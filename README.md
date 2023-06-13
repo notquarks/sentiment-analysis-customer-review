@@ -7,7 +7,7 @@
 <h4 align="center">Abhyasa Danu Brata, Faris Izzuddin Daffa, Dewa Angga Fajar Adji Pangestu</h4>
 <br/>
   
-[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/notquarks/sentiment-analysis-customer-review/blob/main/sentiment_analysis_customer_review.ipynb)
+[![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/github/notquarks/sentiment-analysis-customer-review/blob/main/sentiment_analysis_customer_review.ipynb)
 </div>
 
 <!-- TABLE OF CONTENTS -->
