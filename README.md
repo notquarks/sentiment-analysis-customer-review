@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
 
 * [Abhyasa Danu Brata](https://github.com/notquarks/)
 * [Faris Izzuddin Daffa](https://github.com/risdaffa/)
-* 
+* [Dewa Angga Fajar Adji Pangestu](https://github.com/KazeRaze)
 
 
 Project Link: [https://github.com/notquarks/sentiment-analysis-customer-review](https://github.com/notquarks/sentiment-analysis-customer-review))
